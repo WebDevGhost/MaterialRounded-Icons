@@ -6,7 +6,7 @@ I use a lot of the icons Myself when making websites or web based applications. 
 ### What Icons Are There?
 - Social Media
 - Interface
-- Wildlife
+- Wildlife  
   And more!
 
 <br>  
